@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nayzu
+- 👀 I’m interested in MCPE & Discord
+- 🌱 I’m currently learning PHP & JS
+- 📫 How to reach me : nayzu#1337
