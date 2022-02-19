@@ -7,4 +7,7 @@ __Hello over here 🤠__
 * I would later like to specialize in cybersecurity 📌
 
 * Discord `nayzu#8525` 📬
+
+[![Les Stats GitHub de nayzu](https://github-readme-stats.vercel.app/api?username=nayzu)](https://github.com/anuraghazra/github-readme-stats)
+
 --------------
