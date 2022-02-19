@@ -9,5 +9,4 @@ __Hello over here 🤠__
 * Discord `nayzu#8525` 📬
 
 [![Les Stats GitHub de nayzu](https://github-readme-stats.vercel.app/api?username=nayzu)](https://github.com/anuraghazra/github-readme-stats)
-
 --------------
