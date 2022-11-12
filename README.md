@@ -6,4 +6,6 @@ __Hello over here 🤠__
 * 14 years 🎈
 
 * Discord `nayzu#3929` 📬
+
+* Some upcoming projects 🌟
 --------------
